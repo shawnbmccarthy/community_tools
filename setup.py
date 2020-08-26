@@ -16,8 +16,7 @@ setup_args = dict(
     author_email='demo@thoughtspot.com',
     license='MIT',
     packages=find_packages(),
-    url='https://github.com/shawnbmccarthy/periscope',
-    data_files=[('config', ['cfg/thoughtspot.json'])]
+    url='https://github.com/shawnbmccarthy/periscope'
 )
 
 install_requires = [
